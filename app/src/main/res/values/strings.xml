@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wishlist</string>
+    <string name="action_settings">Settings</string>
+    <string name="item_name_hint">Item Name</string>
+    <string name="item_price_hint">Item Price (e.g. 29.99)</string>
+    <string name="item_url_hint">Item Store URL</string>
+    <string name="add_to_wishlist">Add to Wishlist</string>
+
+    <!-- Navigation template strings -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="lorem_ipsum">Lorem ipsum</string>
+</resources>
