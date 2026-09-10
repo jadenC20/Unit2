@@ -28,6 +28,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<img width="590" height="810" alt="Wishlist Demo" src="https://github.com/user-attachments/assets/73da70b9-2ffe-49b3-9e20-54d623c1039d" />
+
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
